@@ -11,4 +11,4 @@ ADDCOLUMNS(
     "Mes", FORMAT([Date], "MMM"),
     "MesNum", MONTH([Date]),
     "Trimestre", "T" & FORMAT([Date], "Q")
-)```
+)
