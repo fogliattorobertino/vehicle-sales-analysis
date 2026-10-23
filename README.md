@@ -23,9 +23,9 @@ El análisis integral del portafolio de vehículos permitió identificar diferen
 
 El segmento **Premium** lidera en volumen y margen total. Representa aproximadamente el 27 % de las unidades vendidas y genera la mayor contribución al margen total, impulsado por su volumen de comercialización y su margen por unidad.
 
-Los segmentos Económico, Compacto y Familiar presentan mayor margen porcentual. Aunque no lideran en margen total, muestran una mayor eficiencia relativa en la generación de margen por cada dólar vendido.
+Los segmentos **Económico**, **Compacto** y **Familiar** presentan mayor margen porcentual. Aunque no lideran en margen total, muestran una mayor eficiencia relativa en la generación de margen por cada dólar vendido.
 
-El segmento Ejecutivo mantiene un desempeño equilibrado. Combina un volumen relevante de ventas con niveles competitivos de margen por unidad.
+El segmento **Ejecutivo** mantiene un desempeño equilibrado. Combina un volumen relevante de ventas con niveles competitivos de margen por unidad.
 
 El segmento Compacto presenta oportunidades de revisión. Su menor participación en las ventas y su menor contribución al margen total justifican analizar su posicionamiento y el desempeño de sus configuraciones.
 
