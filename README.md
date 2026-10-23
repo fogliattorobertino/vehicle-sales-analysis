@@ -8,13 +8,14 @@ Si bien la empresa dispone de múltiples combinaciones de producto, no todas pre
 ## Objetivo
 Analizar el desempeño comercial y financiero de las distintas configuraciones de vehículos con el fin de proponer recomendaciones estratégicas que optimicen la rentabilidad de su oferta manteniendo niveles adecuados de aceptación del mercado.
 ## Herramientas
-- Python: Limpieza y Análisis Exploratorio
-- SQL: Modelado de Datos.
-- Power BI: Visualización de Datos
+- Python: limpieza, transformación de datos y análisis exploratorio (EDA) mediante estadísticas descriptivas y visualizaciones.
+- SQL: diseño del modelo relacional.
+- Power BI: desarrollo de indicadores, medidas DAX y visualizaciones para analizar los resultados.
 ## Proceso de Trabajo
-1. Preparación y exploración de los datos en Python
-2. Modelado de Datos en SQL
-3. Construcción de Dashboards en Power BI
+1. **Preparación de datos:** revisión de la estructura, limpieza y transformación de las variables con Python.
+2. **Análisis exploratorio:** análisis de distribuciones, relaciones entre variables y detección de posibles valores atípicos.
+3. **Modelado de datos:** organización de la información en tablas relacionales mediante SQL.
+4. **Análisis y visualización:** desarrollo de indicadores y un dashboard interactivo en Power BI.
 ## Código y Documentación
 - Notebook de Python: disponible en este repositorio.
 - Documentación completa: enlace a tu página de Notion.
