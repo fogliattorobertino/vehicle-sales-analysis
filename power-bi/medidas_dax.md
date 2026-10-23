@@ -12,3 +12,8 @@ ADDCOLUMNS(
     "MesNum", MONTH([Date]),
     "Trimestre", "T" & FORMAT([Date], "Q")
 )
+## 2. Medidas DAX
+### Ventas
+Ventas USD = SUM(fact_vehiculos[precio_venta_USD])
+### Unidades Vendidas
+Unidades Vendidas = COUNTROWS(fact_vehiculos)
