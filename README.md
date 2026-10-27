@@ -17,8 +17,10 @@ Analizar el desempeño comercial y financiero de las distintas configuraciones d
 3. **Modelado de datos:** organización de la información en tablas relacionales mediante SQL.
 4. **Análisis y visualización:** desarrollo de indicadores y un dashboard interactivo en Power BI.
 ## Código y Documentación
+- Documentación completa: [Ver documentación del proyecto en Notion](https://app.notion.com/p/Optimizaci-n-de-la-Oferta-de-Veh-culos-en-una-Concesionaria-3fc3ae5b14c2802da4cecbeea06883e9?source=copy_link)
 - Notebook de Python: disponible en este repositorio.
-- Documentación completa: enlace a tu página de Notion.
+- Script SQL: disponible en este repositorio.
+- Archivo Power BI y medidas DAX: disponible en este repositorio.
 ## Resultados Principales
 El análisis integral del portafolio de vehículos permitió identificar diferencias entre segmentos y configuraciones en términos de volumen de ventas, generación de ingresos y contribución al margen comercial. Los resultados muestran que maximizar las ventas no necesariamente equivale a maximizar la rentabilidad, por lo que resulta importante analizar ambas dimensiones en conjunto. 
 
