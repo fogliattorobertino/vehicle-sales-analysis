@@ -35,10 +35,10 @@ Por último, el análisis a nivel de configuración permitió distinguir product
 ## Dashboard de Power BI
 
 ### Desempeño General
-![Dashboard de ventas](images/Desempeño General.JPG)
+![Dashboard de ventas](images/Desempeño%20General.JPG)
 
 ### Rentabilidad
 ![Detalle del dashboard](images/Rentabilidad.JPG)
 
 ### Estrategia de Mix
-![Detalle del dashboards](images/Estrategia de Mix.JPG)
+![Detalle del dashboards](images/Estrategia%20de%20Mix.JPG)
