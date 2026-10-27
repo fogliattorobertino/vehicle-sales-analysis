@@ -31,3 +31,14 @@ El segmento **Ejecutivo** mantiene un desempeño equilibrado. Combina un volumen
 El segmento Compacto presenta oportunidades de revisión. Su menor participación en las ventas y su menor contribución al margen total justifican analizar su posicionamiento y el desempeño de sus configuraciones.
 
 Por último, el análisis a nivel de configuración permitió distinguir productos que combinan alto volumen y margen, alternativas rentables con potencial de crecimiento y configuraciones cuyo desempeño podría requerir ajustes comerciales.
+
+## Dashboard de Power BI
+
+### Desempeño General
+![Dashboard de ventas](images/Desempeño General.JPG)
+
+### Rentabilidad
+![Detalle del dashboard](images/Rentabilidad.JPG)
+
+### Estrategia de Mix
+![Detalle del dashboards](images/Estrategia de Mix.JPG)
